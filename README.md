@@ -2,6 +2,7 @@
 Simple huffman coding implementation in Node.js
 Uses 281 code as escape char
 
+Available at https://www.npmjs.com/package/huffman-simple
 
 ## Usage
 
